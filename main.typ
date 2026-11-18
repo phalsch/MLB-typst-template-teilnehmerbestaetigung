@@ -9,7 +9,7 @@
   
   teilnahme: [hat vom 16. bis 18.11.2026 am Strategie Offsite in Würzburg teilgenommen.],
   
-  beschreibung: [Das Strategie Offsite ist ein Format des Media Lab Bayern, in dem Young Professionals, mit Medienfokus gemeinsam mit erfahrenen Branchen-Expert:innen an realen strategischen Herausforderungen von Medienhäusern arbeiten. 
+  beschreibung: [Das Strategie Offsite ist ein Format des Media Lab Bayern, in dem Young Professionals mit Medienfokus gemeinsam mit erfahrenen Branchen-Expert:innen an realen strategischen Herausforderungen von Medienhäusern arbeiten. 
   
   Die Teilnahme umfasste ein virtuelles Kennenlernen sowie ein dreitägiges Intensiv-Offsite, in dem erprobte Strategie-Frameworks vermittelt und direkt angewendet wurden. Sie belegt die Fähigkeit, komplexe Fragestellungen strukturiert zu analysieren, unterschiedliche Perspektiven einzubeziehen und daraus tragfähige strategische Ansätze zu entwickeln.],
   
@@ -20,7 +20,7 @@
   liste: (
     titel: "Thematische Schwerpunkte",
     text: [
-      - Stakeholder-Analyse: Betroffene, Ziele, Erfolgsmessung und Werte nutzen
+      - Stakeholder-Analyse: Betroffene, Ziele, Erfolgsmessung und Werte
       - Zielbild: Zieldefinition, Nutzen für Stakeholder und Hinderungsgründe
       - Experten-Interviews und Transfer von Best Practices
       - Strategieentwicklung: Umsetzungsschritte, Artefakte und Erfolgskriterien
@@ -29,10 +29,11 @@
   ),
   
   ort: [München],
+  datum: [18.11.2026],
   
   unterschrift: (
     name: "Phil Scholz",
-    funktion: "Programm Manager",
+    funktion: "Projektmanager",
   ),
 )
 
