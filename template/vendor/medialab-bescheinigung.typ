@@ -117,7 +117,7 @@
       // Ort, Datum, Unterschrift
   v(1fr)
   if template.at("ort", default: "München") != none {
-    let date = datetime.today().display("[day].[month].[year]")
+    let date = template.at("datum", default: datetime.today().display("[day].[month].[year]"))
     text(fill: mlb-marin-50, template.ort + ", den " + date)
   }
   v(12mm)
