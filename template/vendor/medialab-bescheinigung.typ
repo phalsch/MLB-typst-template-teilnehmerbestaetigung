@@ -51,7 +51,7 @@
   set par(leading: 0.6em, spacing: 0.9em)
   set list(indent: 0.4em, body-indent: 0.8em, spacing: 0.45em)
 
-  set document(title: template.titel + "  " + name + " – Media Lab Bayern")
+  set document(title: template.titel + " " + name + " – Media Lab Bayern")
   
   // Header
   grid(
