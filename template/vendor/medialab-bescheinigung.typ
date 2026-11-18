@@ -125,5 +125,5 @@
   text(weight: "bold", template.unterschrift.name + ", " + template.unterschrift.funktion + " im Media Lab Bayern")
       }
   )
-  pagebreak()
+  pagebreak(weak:true)
 }
